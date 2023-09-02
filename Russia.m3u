@@ -1,5 +1,7 @@
 teast 
 
+naioakansnsnn
+
 #EXTM3U url-tvg="http://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="pervy" group-title="Test" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
