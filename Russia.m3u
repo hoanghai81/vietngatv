@@ -1,46 +1,44 @@
-teast 
+B1
 
-naioakansnsnn
+Vào đây https://www.dynu.com/en-US/ControlPanel/AddDDNS
 
-#EXTM3U url-tvg="http://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="pervy" group-title="Test" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia1" group-title="Test" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="match-tv" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч!
-http://stream.cvmtv.site/Match?token=live
-#EXTINF:-1 tvg-id="ntv" group-title="Test" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 tvg-id="karusel" group-title="Test" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
-#EXTINF:-1 tvg-id="tvcentr" group-title="Test" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv" group-title="Test" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:-1 tvg-id="sts" group-title="Test" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="Test" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
-#EXTINF:-1 tvg-id="piatnica" group-title="Test" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="Test" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt" group-title="Test" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1 tvg-id="che" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Test",Че
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="Test",Ю
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+B2
+Chọn Option 2: Use Your Domain Name
+
+Nhập domain của mình vào.
+
+Nhận được email
+
+Dynamic DNS service for rawtv.gq activated!
+
+
+
+Dear Hai,
+
+Thank you for choosing Dynu!
+
+Dynamic DNS service for rawtv.gq has been activated. Please change name servers for your domain name at your current registrar to the ones listed below:
+
+NS1.DYNU.COM
+NS2.DYNU.COM
+NS3.DYNU.COM
+NS4.DYNU.COM
+NS5.DYNU.COM
+NS6.DYNU.COM
+
+Your service will not be usable until our name servers are listed for your domain and the change is propagated through Internic systems which can take up to 24 hours.
+
+B3 Vào phần quản lý domain thay đổi nameserver mặc định thành Use custom nameservers và điền các giá trị sau vào
+
+NS1.DYNU.COM
+NS2.DYNU.COM
+NS3.DYNU.COM
+NS4.DYNU.COM
+NS5.DYNU.COM
+
+Vậy là xong.
+
+https://youtu.be/SIH0ozGJGoc?si=p-ipu9N6zsVkcECd
+
+
+
